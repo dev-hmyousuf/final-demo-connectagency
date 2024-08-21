@@ -13,7 +13,7 @@ const Team = () => {
             <span className="inline-block mb-2 text-sm text-blue-500 font-bold uppercase tracking-widest">
               Our team
             </span>
-            <h2 className="font-heading text-5xl text-gray-900 font-black tracking-tight ">
+            <h2 className="font-heading text-7xl text-gray-900 font-black tracking-tight ">
               The brain behind{" "}
               <span className="mx-1 rounded-lg bg-violet-300 bg-opacity-30">
                 Connect Agency
