@@ -25,7 +25,7 @@ const Team = () => {
             {
               images.map((image, index) => {
                 return (
-                  <div key={index} className=" w-full md:w-1/4 p-4">
+                 <div key={index} className=" w-full md:w-1/3 lg:w-1/4 p-4">
                     <div className="flex flex-col justify-between px-8 pt-10 pb-12 h-full text-center bg-white rounded-3xl">
                       <div className="flex-initial mb-8">
                         <Link  to={image.pageLink}>
