@@ -74,7 +74,7 @@ const Testimonial = () => {
             <span className="font-serif italic">Connect Agency</span>
           </h1>
         </div>
-        <div className="min-h-screen bg-gray-100 rounded-xl flex items-center justify-center p-4">
+        <div className="min-h-screen bg-gray-100 rounded-xl flex items-center justify-center px-4 py-60">
         <div className="relative w-full max-w-6xl">
           {/* Scroll Left Button */}
           <button
