@@ -18,7 +18,7 @@ const Services = () => {
             the future.
           </span>
         </h1>
-        <p className="font-semibold text-2xl text-neutral-600 tracking-tight">
+        <p className="font-semibold text-4xl text-neutral-600 tracking-tight">
           Your journey to digital excellence starts here.
         </p>
       </div>
