@@ -87,7 +87,7 @@ const Testimonial = () => {
           {/* Testimonials Container */}
           <div
             ref={scrollRef}
-            className="flex space-x-4 overflow-x-scroll scrollbar-hide p-4"
+            className="flex space-x-4 overflow-x-scroll scrollbar-hide px-4 py-10"
           >
             {testimonials.map((testimonial, index) => (
               <div
