@@ -82,12 +82,10 @@ const Contact = () => {
                     +880 1586-165618
                   </a>
                 </li>
-                <li className="contactEmail text-xl font-semibold leading-normal text-white bg-violet-600 p-[4px] rounded-lg px-2">
-                  <a target='_black' href="https://api.whatsapp.com/message/PRLNCOVF575IA1">
-                   <i className="fa-brands text-3xl fa-square-whatsapp text-green-400"></i>{" "}
-                  +880 1586-165618
-                  </a>
-                </li>
+               <p class="mb-4 text-sm text-gray-400 font-bold uppercase tracking-px">Whatsapp</p>
+              <ul class=" flex flex-col gap-1 w-[400px]">
+                <li class="contactEmail px-2 shadow-green-400 shadow-md text-xl font-semibold leading-normal text-green-500 bg-white p-2 rounded-lg"><a target="_blank" href="https://wa.me/message/PRLNCOVF575IA1"> <i class="fa-brands fa-whatsapp text-[#00E676]"></i> Messege on Whatsapp</a></li>
+              </ul>
               </ul>
             </div>
           </div>
