@@ -51,13 +51,13 @@ const Navbar = () => {
         </ul>
         {
           Open ? 
-          <div className="lg:hidden flex" onClick={handleClick}>
+          <div className="cursot-ponter lg:hidden flex" onClick={handleClick}>
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="28" height="28" color="#000000" fill="none">
     <path d="M19.0005 4.99988L5.00049 18.9999M5.00049 4.99988L19.0005 18.9999" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
 </svg>
       </div>
       :
-      <div className="lg:hidden flex" onClick={handleClick}>
+      <div className="cursot-ponter lg:hidden flex" onClick={handleClick}>
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="28" height="28" color="#000000" fill="none">
           <path d="M4 5L20 5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
           <path d="M4 12L20 12" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
