@@ -84,7 +84,7 @@ const Contact = () => {
                 </li>
                 <li className="contactEmail text-xl font-semibold leading-normal text-white bg-violet-600 p-[4px] rounded-lg px-2">
                   <a target='_black' href="https://api.whatsapp.com/message/PRLNCOVF575IA1">
-                  <i className="fa-brands fa-square-whatsapp"></i>{" "}
+                   <i className="fa-brands text-3xl fa-square-whatsapp text-green-400"></i>{" "}
                   +880 1586-165618
                   </a>
                 </li>
