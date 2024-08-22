@@ -43,9 +43,9 @@ const initialImages = [
         src: 'https://scontent.fjsr11-1.fna.fbcdn.net/v/t39.30808-6/456050298_1077082194125549_1563550694633577787_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeFrzEIsxbP3rET7V1wczQsdOlAshw_S2iE6UCyHD9LaIZIMet8oLFdo80mmCl6kMy3MMfiguUBmCn5E2TqKdpB0&_nc_ohc=fi68PiIUN-0Q7kNvgGVoY7q&_nc_ht=scontent.fjsr11-1.fna&oh=00_AYDA6vprmGAIkz4kBA8-AESEiB76V93v6fliyqyCtnTAWg&oe=66CA4FD4',
 
 
-        name: "M.H Yousuf",
+        name: "H.M Yousuf",
         role: 'Web Developer',
-        pageLink:'/team/M.H-Yousuf',
+        pageLink:'/team/H.M-Yousuf',
         link:'https://www.linkedin.com/hmyousuf2010',
         x:'https://x.com/hmyousuf2010',
         fb:'https://www.facebook.com/hmyousuf3.0',
