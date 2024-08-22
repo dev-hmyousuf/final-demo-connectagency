@@ -71,15 +71,15 @@ const Contact = () => {
               </p>
               <ul className="mb-14 flex flex-col gap-1 w-[400px]">
                 <li className="contactEmail text-xl font-semibold leading-normal text-white bg-violet-600 p-[4px] rounded-lg px-2">
-                  <a href="tell:+880 1568-885065">
+                  <a href="tell:+8801568885065">
                   <i className="fa-solid fa-phone"></i>{" "}
                     +880 1568-885065
                   </a>
                 </li>
                 <li className="contactEmail text-xl font-semibold leading-normal text-white bg-violet-600 p-[4px] rounded-lg px-2">
-                  <a href="tell:+880 1586-165618">
+                  <a href="tell:+8801305223310">
                   <i className="fa-solid fa-phone"></i>{" "}
-                    +880 1586-165618
+                    +880 1305-223310
                   </a>
                 </li>
                <p class="mb-4 text-sm text-gray-400 font-bold uppercase tracking-px">Whatsapp</p>
