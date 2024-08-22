@@ -46,7 +46,7 @@ const initialImages = [
         name: "H.M.Yousuf",
         role: 'Web Developer',
         pageLink:'/team/H.M-Yousuf',
-        link:'https://www.linkedin.com/hmyousuf2010',
+        link:'https://www.linkedin.com/in/hmyousuf2010/?fbclid=IwY2xjawE0OjZleHRuA2FlbQIxMAABHQ2UEBvbNtlrxYipDps6Pj7j7wAIzxHZ_yfy8GsO5UhaVwae6Yk1EGADYQ_aem_cMJ4umdvf6KBNuhDRg1ohA',
         x:'https://x.com/hmyousuf2010',
         fb:'https://www.facebook.com/hmyousuf3.0',
     },
