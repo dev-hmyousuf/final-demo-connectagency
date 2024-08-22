@@ -56,7 +56,7 @@ function App() {
             <Route path="/team/Abdullah-Al-Nirob" element={<Abdullah />} />
             <Route path="/team/Belal-Uddin" element={<Belal />} />
             <Route path="/team/Jubayer-Chowdhury" element={<Jubayer />} />
-            <Route path="/team/M.H-Yousuf" element={<Yousuf />} />
+            <Route path="/team/H.M-Yousuf" element={<Yousuf />} />
           </Routes>
           <Footer />
         </div>
