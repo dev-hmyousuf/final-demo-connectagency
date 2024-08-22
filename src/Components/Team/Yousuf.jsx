@@ -27,7 +27,7 @@ const Yousuf = () => {
                       </a>
                     </div>
                     <div className="w-full sm:w-1/3">
-                      <a className="flex justify-center items-center h-full py-6 bg-white bg-opacity-80 hover:bg-opacity-60 transition ease-in-out duration-200" href="https://www.linkedin.com/hmyousuf2010" target='_blank'>
+                      <a className="flex justify-center items-center h-full py-6 bg-white bg-opacity-80 hover:bg-opacity-60 transition ease-in-out duration-200" href="https://www.linkedin.com/in/hmyousuf2010/?fbclid=IwY2xjawE0OxRleHRuA2FlbQIxMAABHQ2UEBvbNtlrxYipDps6Pj7j7wAIzxHZ_yfy8GsO5UhaVwae6Yk1EGADYQ_aem_cMJ4umdvf6KBNuhDRg1ohA" target='_blank'>
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" color="#000000" fill="none">
                           <path d="M7 10V17" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
                           <path d="M11 13V17M11 13C11 11.3431 12.3431 10 14 10C15.6569 10 17 11.3431 17 13V17M11 13V10" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
