@@ -57,6 +57,7 @@ function App() {
             <Route path="/team/Belal-Uddin" element={<Belal />} />
             <Route path="/team/Jubayer-Chowdhury" element={<Jubayer />} />
             <Route path="/team/H.M-Yousuf" element={<Yousuf />} />
+            <Route path="*" element={<notFound />} />
           </Routes>
           <Footer />
         </div>
